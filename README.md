@@ -8,6 +8,7 @@ In this Excel project, coffee data was pulled from a sample dataset, and with th
   - Size
   - Unite Price
   - Sales
+
 Additionally, Coffee Type Name, Roast Type Name, and Loyalty Card were columns added to the table.
 
 After organizing the data, pivot tables were generated on separate sheets to construct the ultimate dashboard visible on the last sheet. This interactive dashboard facilitates efficient data exploration, enabling users to precisely retrieve the desired information.
