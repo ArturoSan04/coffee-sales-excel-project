@@ -1,4 +1,4 @@
-# coffee-sales-Excel-project
+# coffee-sales-excel-project
 In this Excel project, coffee data was pulled from a sample dataset, and with the given data Xlookup functions were used to populate additional columns to the table. The columns that were populated were:
   - Customer name
   - Email
